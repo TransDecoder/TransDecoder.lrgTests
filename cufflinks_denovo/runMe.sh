@@ -2,8 +2,6 @@
 
 export PERL_HASH_SEED=0
 
-cleanme.pl*  runMe.sh*  transcripts.fasta  transcripts.fasta.transdecoder_dir/  transcripts.gff3  transcripts.gtf
-
 
 
 if [ ! -e transcripts.gtf ]; then
