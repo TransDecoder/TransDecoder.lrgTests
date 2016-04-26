@@ -13,8 +13,6 @@ chdir $FindBin::Bin or die "error, cannot cd to $FindBin::Bin";
 
 my @files_to_keep = qw (cleanme.pl 
                         runMe.sh
-                        transcripts.fasta.gz
-                        transcripts.gtf.gz
 mm9_ucsc_genomeStudio_genes.gtf.gz
 mm9_ucsc_genomeStudio_genes.transcripts.fasta.gz
                  
