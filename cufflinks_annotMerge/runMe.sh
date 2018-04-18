@@ -2,7 +2,6 @@
 
 export PERL_HASH_SEED=0
 
-merged.gtf.gz  merged.transcripts.fasta.gz
 TRANSCRIPTS_GTF="cuffmerged.gtf"
 TRANSCRIPTS_FASTA="cuffmerged.transcripts.fasta"
 
